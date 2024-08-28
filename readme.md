@@ -1,6 +1,6 @@
 # Hybrid-FPN-AACNet (Accepted in MICCAI 2024)
 A PyTorch implementation of Hybrid-FPN-AACNet for granular Abdominal Aortic Calcification (AAC) detection in lateral view DXA images.
-![Network Architecture](result/architecture.png)
+![Network Architecture](result/architecture.PNG)
 
 
 ## Dataset
